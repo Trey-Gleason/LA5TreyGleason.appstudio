@@ -1,0 +1,9 @@
+let quoteString = "Failure is simply the opportunity to begin again this time more intelligently."
+console.log(`Upper case string is: ${quoteString.toUpperCase()}`)
+
+let authorString = "-Henry Ford"
+let completeString = quoteString.concat(authorString)
+console.log(completeString)
+
+let found = completeString.includes("Henry")
+  if (console.log(completeString.includes("Henry") == True)
