@@ -1,3 +1,4 @@
+/*
 let number1 = Number(prompt("Provide a first number for the equation!"))
 let number2 = Number(prompt("Provide a second number for the equation!"))
 
@@ -8,3 +9,4 @@ function Calculate(num1, num2){
   return summedNumbers
 }
 console.log(`The sum of ${number1} and ${number2} is ${Calculate()}.`)
+*/

@@ -6,4 +6,8 @@ let completeString = quoteString.concat(authorString)
 console.log(completeString)
 
 let found = completeString.includes("Henry")
-  if (console.log(completeString.includes("Henry") == True)
+
+  if (found == False)
+  console.log('Henry was not in completeString')
+else
+  console.log('Henry was in completeString')
